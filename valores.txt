@@ -1,6 +1,6 @@
-Aplicativo Android (Flutter) - Valores:
--- Custo inicial                                  => R$ 4.000,00 (Design Basico)
-                                                  => R$ 6.000,00 (Design Bom)
+Aplicativo Android (Flutter/dart) - Valores:
+-- Custo inicial                                  => R$ 4.000,00 (Estático, simples)
+                                                  => R$ 6.000,00 (Com animações e efeitos)
 -- Adicionais: -----------------------------------------------------------------------------------------------------------------------------
 ---- Login/redes sociais/Redefinir Senha          => R$ 3.000,00
 ---- Perfil de usuario                            => R$ 2.750,00
@@ -15,13 +15,13 @@ Aplicativo Android (Flutter) - Valores:
       Rating                                      => R$ 1.250,00
       Comentarios                                 => R$ 1.800,00
 ---- Notificacao                                  => R$ 2.100,00
----- Pagamento Integrado                          => R$ 4.750,00 (Credito/Debito/Boleto) dependendo do Gateway de pagamento pode variar
+---- Pagamento Integrado                          => R$ 2.000,00 cada opção (Pix/Credito/Debito/Boleto) dependendo do Gateway de pagamento pode variar
 
 ============================================================================================================================================
 
-Web Ecommerce (html,css,php,javascript) - Valores:
--- Custo inicial                                  => R$ 2.000,00 (Design Basico)
-                                                  => R$ 3.000,00 (Design Bom)
+Website, Ecommerce (html,css,php,javascript ou Flutter/dart) - Valores:
+-- Custo inicial                                  => R$ 2.000,00 (Estático, simples)
+                                                  => R$ 3.000,00 (Com animações e efeitos)
 -- Adicionais: -------------------------------------------------------------------------------------------------
 ---- Login/redes sociais/Redefinir Senha          => R$ 1.500,00
 ---- Perfil de usuario                            => R$ 1.375,00
@@ -35,7 +35,7 @@ Web Ecommerce (html,css,php,javascript) - Valores:
       Rating                                      => R$   850,00
       Comentarios                                 => R$ 1.175,00
 ---- Notificacao                                  => R$ 1.350,00
----- Pagamento Integrado                          => R$ 2.550,00 (Credito/Debito/Boleto) dependendo do Gateway de pagamento pode variar
+---- Pagamento Integrado                          => R$ 1.500,00 cada opção (Pix/Credito/Debito/Boleto) dependendo do Gateway de pagamento pode variar
 
 ============================================================================================================================================
 
