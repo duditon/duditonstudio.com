@@ -1,21 +1,21 @@
 Aplicativo Android (Flutter/dart) - Valores:
--- Custo inicial                                  => R$ 4.000,00 (Estático, simples)
-                                                  => R$ 6.000,00 (Com animações e efeitos)
+-- Custo inicial                                  => R$ 2.500,00 (Estático, simples)
+                                                  => R$ 3.750,00 (Com animações e efeitos)
 -- Adicionais: -----------------------------------------------------------------------------------------------------------------------------
----- Login/redes sociais/Redefinir Senha          => R$ 3.000,00
----- Perfil de usuario                            => R$ 2.750,00
----- GPS/Google Maps/Websocket                    => R$ 6.500,00
----- Comunicacao Web                              => R$ 2.800,00
----- Painel Administrativo                        => R$ 2.900,00
----- Multilingue                                  => R$ 2.000,00
----- SMS                                          => R$ 1.000,00
----- Chat                                         => R$ 4.000,00 (Basico, texto apenas)
----- Compartilhamento redes sociais               => R$ 2.650,00 (Twitter, Facebook, Instagram e Whatsapp)
----- Like                                         => R$   700,00
-      Rating                                      => R$ 1.250,00
-      Comentarios                                 => R$ 1.800,00
----- Notificacao                                  => R$ 2.100,00
----- Pagamento Integrado                          => R$ 2.000,00 cada opção (Pix/Credito/Debito/Boleto) dependendo do Gateway de pagamento pode variar
+---- Login/redes sociais/Redefinir Senha          => R$ 1.875,00
+---- Perfil de usuario                            => R$ 1.750,00
+---- GPS/Google Maps                              => R$ 2.500,00
+---- Comunicacao Web                              => R$ 1.750,00
+---- Painel Administrativo                        => R$ 1.850,00
+---- Multilingue                                  => R$ 1.250,00
+---- SMS                                          => R$   750,00
+---- Chat                                         => R$ 2.850,00 (Basico, texto apenas)
+---- Compartilhamento redes sociais               => R$ 1.850,00 (Twitter, Facebook, Instagram e Whatsapp)
+---- Like                                         => R$   500,00
+      Rating                                      => R$ 1.100,00
+      Comentarios                                 => R$ 1.500,00
+---- Notificacao                                  => R$ 1.700,00
+---- Pagamento Integrado                          => R$ 1.875,00 cada opção (Pix/Credito/Debito/Boleto) dependendo do Gateway de pagamento pode variar
 
 ============================================================================================================================================
 
